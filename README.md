@@ -1,1 +1,1 @@
-Welcome to a Ruby program !
+Welcome to my Fight games.
